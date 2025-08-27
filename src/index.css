@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "@fontsource-variable/crimson-pro";
+
+#root {
+  isolation: isolate;
+}
+
+body {
+  font-family: "Crimson Pro Variable", serif;
+}
